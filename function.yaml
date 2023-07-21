@@ -1,0 +1,6 @@
+apiVersion: core.openfunction.io/v1beta1
+kind: Function
+metadata:
+  name: function-sample
+spec:
+  image: "c8n.io/vfarcic/open-function-demo:v0.0.1"
